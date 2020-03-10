@@ -56,6 +56,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "microsoft.aspnetcore.identity.entityframeworkcore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
